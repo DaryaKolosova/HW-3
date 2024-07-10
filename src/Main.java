@@ -91,6 +91,7 @@ public class Main {
         System.out.println("Или же " + kg + " кг.");
 
         System.out.println("Задача 7");
+
         int gr = 7 * 1000;
         System.out.println("7 кг =" + gr + " граммов");
         int minGr = gr / 250;
